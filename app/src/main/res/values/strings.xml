@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">Question 1</string>
+    <string name="questions">QUESTIONS</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="submit">Submit</string>
+    <string name="enter_a_name">enter a name</string>
+    <string name="your_name">Your Name</string>
+    <string name="name">Name :</string>
+    <string name="rightAnswer">Number Of Right Answers : </string>
+    <string name="your_answer">your answer</string>
+    <string name="question_6">Question 6</string>
+    <string name="question_one">When did Java language Released ?</string>
+    <string name="answer_1_qestion_1_in_1995">In 1995</string>
+    <string name="answer_2_qestion_1_in_2005">In 2005</string>
+    <string name="answer_3_qestion_1_in_2015">In 2015</string>
+    <string name="question_two_content">By which company java released ?</string>
+    <string name="answer_1_question_2_by_google">By Google</string>
+    <string name="answer_2_qusetion_2_by_microsoft">By Microsoft</string>
+    <string name="answer_2_qusetion_2_by_sunmicrosystem">By SunMicrosystem</string>
+    <string name="question_three_content">Who Is Creator Of Java Language ?</string>
+    <string name="answer_1_qestion_3_eslam_faisal">Eslam faisal</string>
+    <string name="answer_2_qestion_3_james_gosling">james gosling</string>
+    <string name="answer_3_qestion_3_Steve_Jobs">Steve Jobs</string>
+    <string name="queston_four_content">Which of the following used by java ?</string>
+    <string name="answer_1_qestion_4_android">Android</string>
+    <string name="answer_2_qestion_3_Desktop_Applicatio">Desktop Applicatio</string>
+    <string name="answer_3_qestion_4_No_Thing">No Thing</string>
+    <string name="question_five_content">Who Is Bill Gates ?</string>
+    <string name="question_six_content">What Is The Basic Language To Brogramming Android ?</string>
+</resources>
