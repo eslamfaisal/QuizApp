@@ -1,5 +1,5 @@
 # QuizApp
-an app that show many question ande the user anser them
+an app that show many question and the user answer them
 # Author 
 [Eslam Faisal](https://github.com/eslamfaisal)
 
